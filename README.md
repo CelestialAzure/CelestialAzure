@@ -26,6 +26,7 @@ Linil Pascal
  <img alt="Static Badge" src="https://img.shields.io/badge/typescript-white?style=for-the-badge&logo=typescript">
 <img alt="Static Badge" src="https://img.shields.io/badge/react.js-white?style=for-the-badge&logo=react">
 <img alt="Static Badge" src="https://img.shields.io/badge/react_native-white?style=for-the-badge&logo=react">
+<img alt="Static Badge" src="https://img.shields.io/badge/next_js-black?style=for-the-badge&logo=next.js">
 
 </div>
 
