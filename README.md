@@ -23,6 +23,9 @@ Linil Pascal
  <img alt="Static Badge" src="https://img.shields.io/badge/javascript-grey?style=for-the-badge&logo=javascript">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+ <img alt="Static Badge" src="https://img.shields.io/badge/typescript-white?style=for-the-badge&logo=typescript">
+<img alt="Static Badge" src="https://img.shields.io/badge/react.js-white?style=for-the-badge&logo=react">
+
 </div>
 
 <hr />
