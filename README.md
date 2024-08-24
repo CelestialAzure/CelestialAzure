@@ -1,16 +1,34 @@
-## Hi there 👋
+<h1 align='left'>
+Linil Pascal
+</h1>
 
-<!--
-**CelestialAzure/CelestialAzure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align='left'>
+ Senior Engineer
 
-Here are some ideas to get you started:
+   
+  
+</p>
+<!-- <p>I am based out of Bengaluru, Karnataka, India.</p> -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+<div align="center">
+  <h3>My GitHub Trophies</h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=CelesitalAzure" />
+</div>
+
+<div align='center'>
+  💻 My Stack<br/><br/>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+</div>
+
+<hr />
+
+<a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CelesitalAzure&theme=github_dark" width="46%"></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CelesitalAzure&layout=compact&langs_count=9&theme=github_dark" width="49%"></a>
+<a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CelesitalAzure&theme=github_dark" width="100%"></a>
+
+
+<hr />
