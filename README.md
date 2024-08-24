@@ -3,7 +3,7 @@ Linil Pascal
 </h1>
 
 <p align='left'>
- Senior Engineer
+ Senior Software Engineer at Spark Studio
 
    
   
